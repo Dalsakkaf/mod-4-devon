@@ -1,0 +1,9 @@
+.box {
+    position: absolute;
+    top: 40%;
+    right: 40%;
+    justify-content: center;
+    text-align: center;
+    color: hotpink;
+    background-color: rgb(19, 27, 24);
+};
